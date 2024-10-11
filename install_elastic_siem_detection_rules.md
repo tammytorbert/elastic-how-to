@@ -8,7 +8,7 @@ This guide provides a method for installing Elastic SIEM detection rules. By fol
 
 2\. Click here.
 
-![Step 2](./images/Install_Elastic_SIEM_Detection_Rules-Step_2.png)
+![Step 2](./images/Install_Elastic_SIEM_Detection_Rules_-_Step_2.png)
 
 3\. Click "Rules"
 
