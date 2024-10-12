@@ -1,7 +1,5 @@
 # Install Elastic SIEM Detection Rules
 
-#### [Made by Tammy Torbert]
-
 This guide provides a method for installing Elastic SIEM detection rules. By following the outlined steps, individuals can quickly set up essential rules that help in identifying potential threats within their systems. This streamlined process ensures that users can easily manage and utilize the powerful capabilities of Elastic SIEM.
 
 1\. Navigate to &lt;your_kibana_instance&gt;.
